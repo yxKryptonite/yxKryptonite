@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
-
-![](http://antzuhl.cn:4000/get/@yxKryptonite.readme)
+![info](https://github-readme-stats.vercel.app/api?username=yxKryptonite&show_icons=true&count_private=true&hide=prs&theme=onedark)
 <!--
 **yxKryptonite/yxKryptonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
