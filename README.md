@@ -11,6 +11,7 @@ Welcome to my zone!
 [![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=cplusplus&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-C-007396?style=for-the-badge&logo=c&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Jupyter-007396?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-HTML-007396?style=for-the-badge&logo=html&logoColor=ffffff)](https://www.python.org/)
 <!--
 **yxKryptonite/yxKryptonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
