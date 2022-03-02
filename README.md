@@ -5,6 +5,9 @@ Welcome to my zone!
 ![booms21](https://github-readme-stats.vercel.app/api?username=yxKryptonite&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)     
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&layout=compact&theme=dracula)
+
+### Technology Stack
+[![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 <!--
 **yxKryptonite/yxKryptonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
