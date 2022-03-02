@@ -23,7 +23,7 @@ Welcome to my zone!
 [![](https://img.shields.io/badge/-GitHub-007396?style=for-the-badge&logo=github&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Git-007396?style=for-the-badge&logo=git&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Gitee-007396?style=for-the-badge&logo=gitee&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Visual Studio Code-007396?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-VSCode-007396?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://www.python.org/)
 
 ### Favorites
 [![](https://img.shields.io/badge/-Apple-007396?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.python.org/)
