@@ -6,10 +6,9 @@ Welcome to my zone!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&layout=compact&theme=dracula)
 
-### Technology Stack
+### Favorites
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=C/C++&logoColor=red)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Jupyter-007396?style=for-the-badge&logo=#F37626&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=c plus plus&logoColor=aaaaaa)](https://www.python.org/)
 <!--
 **yxKryptonite/yxKryptonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
