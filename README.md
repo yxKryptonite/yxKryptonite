@@ -8,7 +8,7 @@ I'm yx, a coder from Rhode Island.
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![C++](https://img.shields.io/badge/-cpp-333333?style=flat&logo=C++&logoColor=007396)
+- 💻 &#160; ![C++](https://img.shields.io/badge/-java-333333?style=flat&logo=C++&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
