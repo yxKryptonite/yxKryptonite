@@ -12,7 +12,7 @@ Welcome to my zone!
 [![](https://img.shields.io/badge/-C-007396?style=for-the-badge&logo=c&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Jupyter-007396?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-HTML5-007396?style=for-the-badge&logo=html5&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-CSS3-007396?style=for-the-badge&logo=css3&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-CSS3-007396?style=for-the-badge&logo=css3&logoColor=aaaaaa)](https://www.python.org/)
 
 [![](https://img.shields.io/badge/-PyTorch-007396?style=for-the-badge&logo=pytorch&logoColor=ffffff)](https://www.python.org/)
 <!--
