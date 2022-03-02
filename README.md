@@ -8,7 +8,7 @@ Welcome to my zone!
 
 ### Technology Stack
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=C++&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=cpp&logoColor=ffffff)](https://www.python.org/)
 <!--
 **yxKryptonite/yxKryptonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
