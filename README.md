@@ -1,8 +1,7 @@
+![](https://visitor-badge.glitch.me/badge?page_id=yxKryptonite.readme)
 ### Hi there 👋
 
 I'm yx, a coder from Rhode Island.
-
-![](https://visitor-badge.glitch.me/badge?page_id=yxKryptonite.readme)
 
 ![info](https://github-readme-stats.vercel.app/api?username=yxKryptonite&show_icons=true&count_private=true&hide=prs&theme=onedark)
 
