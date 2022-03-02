@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=yxKryptonite.readme)
+
 
 ![](http://antzuhl.cn:4000/get/@yxKryptonite.readme)
 <!--
