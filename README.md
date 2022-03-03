@@ -7,7 +7,7 @@ Welcome to my zone!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&layout=compact&theme=dracula)
 
 ### Technology Stack
-[![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=cccccc)](https://www.python.org/)
 [![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=cplusplus&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-C-007396?style=for-the-badge&logo=c&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Jupyter-007396?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://www.python.org/)
