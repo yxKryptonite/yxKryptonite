@@ -15,7 +15,7 @@ Welcome to my zone!
 ![](https://img.shields.io/badge/-CSS3-007396?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Markdown-007396?style=for-the-badge&logo=markdown&logoColor=ffffff)
 
-[![](https://img.shields.io/badge/-PyTorch-007396?style=for-the-badge&logo=pytorch&logoColor=ffffff)](https://www.pytorch.org/)
+[![](https://img.shields.io/badge/-PyTorch-007396?style=for-the-badge&logo=pytorch&logoColor=ffffff&color=orange)](https://www.pytorch.org/)
 ![](https://img.shields.io/badge/-Tensorflow-007396?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Keras-007396?style=for-the-badge&logo=keras&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Shell-007396?style=for-the-badge&logo=shell&logoColor=ffffff)
