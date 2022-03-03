@@ -8,8 +8,8 @@ Welcome to my zone!
 
 ### Technology Stack
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
-![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
-![](https://img.shields.io/badge/-C-007396?style=for-the-badge&logo=c&logoColor=ffffff)
+![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=cplusplus&logoColor=ffffff&color=blue)
+![](https://img.shields.io/badge/-C-007396?style=for-the-badge&logo=c&logoColor=ffffff&color=blue)
 ![](https://img.shields.io/badge/-Jupyter-007396?style=for-the-badge&logo=jupyter&logoColor=ffffff)
 ![](https://img.shields.io/badge/-HTML5-007396?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![](https://img.shields.io/badge/-CSS3-007396?style=for-the-badge&logo=css3&logoColor=ffffff)
