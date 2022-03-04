@@ -10,7 +10,7 @@
 
 [![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div> <img src="https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=xcode" /> </div>
+<div> <img src="https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=xcode&width=445" /> </div>
 
 ## ***𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔***
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
