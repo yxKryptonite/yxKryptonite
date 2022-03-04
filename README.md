@@ -1,7 +1,5 @@
 # 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋 
 
-<div> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
-
 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒛𝒐𝒏𝒆!
 
 ## ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
@@ -11,6 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&theme=dracula&card_width=445&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<div> <img src="https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=xcode" /> </div>
 
 ## ***𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔***
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
