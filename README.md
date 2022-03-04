@@ -10,7 +10,7 @@
 
 [![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div> <img src="https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=xcode&card_width=445" /> </div>
+[![yxKryptonite's github activity graph](https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yxKryptonite&theme=dracula" /> </div>
 
