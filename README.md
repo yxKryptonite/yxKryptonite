@@ -6,9 +6,7 @@
 
 [![yxKryptonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxKryptonite&theme=synthwave&show_icons=True)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github-readme-streak-stats.herokuapp.com/?user=yxKryptonite&theme=dracula" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&theme=dracula&card_width=445&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&theme=dracula&card_width=445&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![yxKryptonite's github activity graph](https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
