@@ -21,8 +21,8 @@ Welcome to my zone!
 ![](https://img.shields.io/badge/-Keras-007396?style=for-the-badge&logo=keras&logoColor=ffffff&color=red)
 ![](https://img.shields.io/badge/-Sklearn-007396?style=for-the-badge&logo=scikitlearn&logoColor=ffffff&color=gray)
 
-[![](https://img.shields.io/badge/-GitHub-007396?style=for-the-badge&logo=github&logoColor=ffffff&color=black)](https://www.github.com/)
 ![](https://img.shields.io/badge/-Git-007396?style=for-the-badge&logo=git&logoColor=ffffff&color=gray)
+[![](https://img.shields.io/badge/-GitHub-007396?style=for-the-badge&logo=github&logoColor=ffffff&color=black)](https://www.github.com/)
 [![](https://img.shields.io/badge/-Gitee-007396?style=for-the-badge&logo=gitee&logoColor=ffffff&color=coral)](https://www.gitee.com/)
 [![](https://img.shields.io/badge/-VSCode-007396?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&color=darkblue)](https://code.visualstudiocode.com/)
 
