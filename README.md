@@ -4,7 +4,7 @@
 
 ## ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
 
-[![yxKryptonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxKryptonite&theme=synthwave&show_icons=True)](https://github.com/anuraghazra/github-readme-stats) <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yxKryptonite&theme=dracula" /> </div>
+[![yxKryptonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxKryptonite&theme=synthwave&show_icons=True)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github-readme-streak-stats.herokuapp.com/?user=yxKryptonite&theme=dracula" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&theme=dracula&card_width=445&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
