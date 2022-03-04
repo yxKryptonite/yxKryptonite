@@ -1,6 +1,6 @@
 # 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=yxKryptonite" />
 
 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒛𝒐𝒏𝒆!
 
