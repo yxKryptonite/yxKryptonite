@@ -2,7 +2,8 @@
 
 Welcome to my zone!
 
-[![yxKryptonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxKryptonite&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+[![yxKryptonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxKryptonite&theme=dracula&showingicons)](https://github.com/anuraghazra/github-readme-stats) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite)](https://github.com/anuraghazra/github-readme-stats)
