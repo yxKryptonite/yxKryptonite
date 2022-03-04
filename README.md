@@ -1,6 +1,8 @@
 # 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋 
 
-<font size=7>𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒛𝒐𝒏𝒆!</font>
+<img src="https://visitor-badge.glitch.me/badge?page_id=" />
+
+𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒛𝒐𝒏𝒆!
 
 ## ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
 
