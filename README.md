@@ -1,8 +1,8 @@
-## 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋 
+# 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋 
 
-𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒛𝒐𝒏𝒆!
+<font size=5>𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒛𝒐𝒏𝒆!</font>
 
-### ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
+## ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
 
 [![yxKryptonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxKryptonite&theme=synthwave&show_icons=True)](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -10,7 +10,7 @@
 
 [![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### ***𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔***
+## ***𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔***
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=cplusplus&logoColor=ffffff&color=blueviolet)
 ![](https://img.shields.io/badge/-C-007396?style=for-the-badge&logo=c&logoColor=ffffff&color=blue)
@@ -30,7 +30,7 @@
 [![](https://img.shields.io/badge/-Gitee-007396?style=for-the-badge&logo=gitee&logoColor=ffffff&color=coral)](https://www.gitee.com/)
 [![](https://img.shields.io/badge/-VSCode-007396?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&color=darkblue)](https://code.visualstudiocode.com/)
 
-### ***𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗𝚜***
+## ***𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗𝚜***
 [![](https://img.shields.io/badge/-Apple-007396?style=for-the-badge&logo=apple&logoColor=ffffff&color=silver)](https://www.apple.com/)
 [![](https://img.shields.io/badge/-Google-007396?style=for-the-badge&logo=google&logoColor=ffffff&color=gold)](https://www.google.com/)
 [![](https://img.shields.io/badge/-Microsoft-007396?style=for-the-badge&logo=microsoft&logoColor=ffffff&color=blue)](https://www.microsoft.com/)
