@@ -12,6 +12,8 @@
 
 <div> <img src="https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=xcode&card_width=445" /> </div>
 
+<div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yxKryptonite" /> </div>
+
 ## ***𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔***
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=cplusplus&logoColor=ffffff&color=blueviolet)
