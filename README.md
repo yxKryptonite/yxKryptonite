@@ -1,6 +1,6 @@
 # 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋 
 
-𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒛𝒐𝒏𝒆!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+zone!)](https://git.io/typing-svg)
 
 ## ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
 
