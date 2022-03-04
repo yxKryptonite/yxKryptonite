@@ -28,7 +28,7 @@ Welcome to my zone!
 [![](https://img.shields.io/badge/-Gitee-007396?style=for-the-badge&logo=gitee&logoColor=ffffff&color=coral)](https://www.gitee.com/)
 [![](https://img.shields.io/badge/-VSCode-007396?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&color=darkblue)](https://code.visualstudiocode.com/)
 
-### Favorites
+### Subscriptions
 [![](https://img.shields.io/badge/-Apple-007396?style=for-the-badge&logo=apple&logoColor=ffffff&color=silver)](https://www.apple.com/)
 [![](https://img.shields.io/badge/-Google-007396?style=for-the-badge&logo=google&logoColor=ffffff&color=gold)](https://www.google.com/)
 [![](https://img.shields.io/badge/-Microsoft-007396?style=for-the-badge&logo=microsoft&logoColor=ffffff&color=blue)](https://www.microsoft.com/)
