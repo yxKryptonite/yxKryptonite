@@ -1,6 +1,6 @@
 # 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋 
 
-𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒛𝒐𝒏𝒆!
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to my zone!&center=true&size=27"> </a> </h1>
 
 ## ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
 
