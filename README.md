@@ -12,7 +12,7 @@
 
 [![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![yxKryptonite's github activity graph](https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![yxKryptonite's github activity graph](https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=xcode&point=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ***𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔***
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
