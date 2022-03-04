@@ -6,6 +6,8 @@ Welcome to my zone!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Technology Stack
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=cplusplus&logoColor=ffffff&color=blueviolet)
