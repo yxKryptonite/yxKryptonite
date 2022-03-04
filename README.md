@@ -2,9 +2,9 @@
 
 Welcome to my zone!
 
-[![yxKryptonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxKryptonite)](https://github.com/anuraghazra/github-readme-stats)
+[![yxKryptonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxKryptonite&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technology Stack
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
