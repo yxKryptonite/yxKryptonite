@@ -12,9 +12,10 @@
 
 [![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![yxKryptonite's github activity graph](https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=xcode&point=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## ***𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔***
+<!-- profile-3d-contrib -->
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=cplusplus&logoColor=ffffff&color=blueviolet)
 ![](https://img.shields.io/badge/-C-007396?style=for-the-badge&logo=c&logoColor=ffffff&color=blue)
