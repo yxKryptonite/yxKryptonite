@@ -12,7 +12,6 @@
 
 [![yxKryptonite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yxKryptonite&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![yxKryptonite's github activity graph](https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ***𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔***
 <div>
