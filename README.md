@@ -4,7 +4,6 @@
 
 ## ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yxKryptonite&theme=dracula&hide_border=false" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&theme=dracula&card_width=445&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![yxKryptonite's github activity graph](https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
