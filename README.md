@@ -8,6 +8,7 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dracula" />
 </div>
 <br>
+[![yxKryptonite's github activity graph](https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ***𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔***
 <div>
