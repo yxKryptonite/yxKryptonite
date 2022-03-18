@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+zone!;And+have+a+nice+day!)](https://git.io/typing-svg)
 
 ## ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yxKryptonite&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=dracula" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=dracula" />
+<div>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yxKryptonite&hide_title=true&hide_border=true&show_icons=trueline_height=21&icon_color=000&theme=dracula" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dracula" />
 </div>
 <br>
 
