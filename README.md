@@ -4,8 +4,8 @@
 
 ## ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
 <div>
-  <img height="164px" src="https://github-readme-streak-stats.herokuapp.com/?user=yxKryptonite&theme=dracula&hide_border=false" />
-  <img height="164px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&hide_title=true&hide_border=false&layout=compact&langs_count=6&icon_color=fff&theme=dracula" />
+  <img height="164px" src="https://github-readme-streak-stats.herokuapp.com/?user=yxKryptonite&theme=dracula&hide_border=true" />
+  <img height="164px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dracula" />
 </div>
 
 
