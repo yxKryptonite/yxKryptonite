@@ -3,9 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+zone!;And+have+a+nice+day!)](https://git.io/typing-svg)
 
 ## ***𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜***
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yxKryptonite&theme=dracula&hide_border=false" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&theme=dracula&card_width=445&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![yxKryptonite's github activity graph](https://activity-graph.herokuapp.com/graph?username=yxKryptonite&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=y xKryptonite&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxKryptonite&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+<br>
 
 ## ***𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔***
 <div>
