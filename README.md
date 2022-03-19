@@ -39,7 +39,6 @@
 ![](https://img.shields.io/badge/-Tensorflow-007396?style=for-the-badge&logo=tensorflow&logoColor=ffffff&color=orange)
 ![](https://img.shields.io/badge/-Keras-007396?style=for-the-badge&logo=keras&logoColor=ffffff&color=red)
 ![](https://img.shields.io/badge/-Sklearn-007396?style=for-the-badge&logo=scikitlearn&logoColor=ffffff&color=gray)
-![](https://img.shields.io/badge/-Huggingface-007396?style=for-the-badge&logo=hugging&logoColor=ffffff&color=yellow)
 
 ![](https://img.shields.io/badge/-Git-007396?style=for-the-badge&logo=git&logoColor=ffffff&color=gray)
 [![](https://img.shields.io/badge/-GitHub-007396?style=for-the-badge&logo=github&logoColor=ffffff&color=black)](https://www.github.com/)
