@@ -44,6 +44,7 @@
 [![](https://img.shields.io/badge/-GitHub-007396?style=for-the-badge&logo=github&logoColor=ffffff&color=black)](https://www.github.com/)
 [![](https://img.shields.io/badge/-Gitee-007396?style=for-the-badge&logo=gitee&logoColor=ffffff&color=coral)](https://www.gitee.com/)
 [![](https://img.shields.io/badge/-VSCode-007396?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&color=darkblue)](https://code.visualstudiocode.com/)
+![](https://img.shields.io/badge/-Jetbrains-007396?style=for-the-badge&logo=jetbrains&logoColor=ffffff&color=green)
 
 ## ***𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗𝚜***
 [![](https://img.shields.io/badge/-Apple-007396?style=for-the-badge&logo=apple&logoColor=ffffff&color=silver)](https://www.apple.com/)
