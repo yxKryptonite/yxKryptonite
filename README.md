@@ -57,10 +57,10 @@
 [![](https://img.shields.io/badge/-Youtube-007396?style=for-the-badge&logo=youtube&logoColor=ffffff&color=red)](https://www.youtube.com/)
 [![](https://img.shields.io/badge/-Instagram-007396?style=for-the-badge&logo=instagram&logoColor=ffffff&color=hotpink)](https://www.instagram.com/)
 ![](https://img.shields.io/badge/-Reddit-007396?style=for-the-badge&logo=reddit&logoColor=ffffff&color=coral)
-![](https://img.shields.io/badge/-Pitchfork-007396?style=for-the-badge&logo=pitchfork&logoColor=ffffff&color=black)
 
 ![](https://img.shields.io/badge/-Zhihu-007396?style=for-the-badge&logo=zhihu&logoColor=ffffff&color=blue)
 ![](https://img.shields.io/badge/-Bilibili-007396?style=for-the-badge&logo=bilibili&logoColor=ffffff&color=pink)
+![](https://img.shields.io/badge/-Weibo-007396?style=for-the-badge&logo=weibo&logoColor=ffffff&color=red)
 
 <!--
 **yxKryptonite/yxKryptonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
