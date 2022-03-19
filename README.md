@@ -33,6 +33,7 @@
 ![](https://img.shields.io/badge/-CSS3-007396?style=for-the-badge&logo=css3&logoColor=ffffff&color=yellow)
 ![](https://img.shields.io/badge/-Markdown-007396?style=for-the-badge&logo=markdown&logoColor=ffffff&color=cornflowerblue)
 ![](https://img.shields.io/badge/-Latex-007396?style=for-the-badge&logo=latex&logoColor=ffffff&color=black)
+![](https://img.shields.io/badge/-JavaScript-007396?style=for-the-badge&logo=javascript&logoColor=ffffff&color=orange)
 
 [![](https://img.shields.io/badge/-PyTorch-007396?style=for-the-badge&logo=pytorch&logoColor=ffffff&color=coral)](https://www.pytorch.org/)
 ![](https://img.shields.io/badge/-Tensorflow-007396?style=for-the-badge&logo=tensorflow&logoColor=ffffff&color=orange)
